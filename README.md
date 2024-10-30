@@ -214,6 +214,16 @@ Coming Soon...
 | **PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs** [[paper]](https://arxiv.org/abs/2312.15230)[[project]](https://github.com/ZIB-IOL/PERP) | 大模型剪枝 | arxiv | 2023-12-23 |
 | **LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training** [[paper]](https://arxiv.org/abs/2406.16554)[[project]](https://github.com/pjlab-sys4nlp/llama-moe) | LLM MoE | arxiv | 2024-06-24 |
 
++ **🔥话题:KVcache之异构缓存(涉及内容归属：系统层优化技术)**
+
+| 标题 | 类型 | 会议  | 日期 |
+| ------ | :---: | :---: | :---: |
+|**InfiniGen:Efficient Gerative Inference of Large Language Models with Dynamic KV Cache Management** [[paper]](https://arxiv.org/abs/2406.19707) | KV Cache管理 | OSDI2024 | 2024-06-28 |
+|**PQCache: Product Quantization-based KVCache for Long Context LLM Inference** [[paper]](https://arxiv.org/abs/2407.12820)[[project]](https://github.com/HugoZHL/PQCache) | KV Cache管理 | arxiv | 2024-07-01 |
+|**InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory** [[paper]](https://arxiv.org/abs/2402.04617)[[project]](https://github.com/thunlp/InfLLM) | 借助CPU管理KV Cache | arxiv | 2024-05-28 |
+|**PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU** [[paper]](https://arxiv.org/abs/2312.12456)[[project]](https://github.com/SJTU-IPADS/PowerInfer) | GPU-CPU混合推理引擎 | SOSP2024 | 2023-12-16 |
+|**MagicPiG: sParse Inference enGine for LLM** [[paper]](https://arxiv.org/abs/2410.16179)[[project]](https://github.com/Infini-AI-Lab/MagicPiG) | GPU-CPU混合推理引擎 | arxiv | 2024-10-28 |
+
 
 ## 大模型知识处理
 ### 大模型知识推理
